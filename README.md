@@ -1,9 +1,12 @@
 MinimalXY Pelican Theme
 =======================
 
-MinimalXY [Pelican](https://getpelican.com/) theme is extended from [minimalX](https://github.com/art1fa/minimalX) by [art1fa](https://github.com/art1fa).
+MinimalXY [Pelican](https://getpelican.com/) theme is extended from [minimalX](https://github.com/art1fa/minimalX) and [art1fa](https://github.com/art1fa) by myself
 
-I made some improvements, polishing and SEO optimization. The main purpose of this fork is to keep everything simple and focus on content. I removed all unnecessary parts. You can see this theme live here: [blog.petrnohejl.cz](http://blog.petrnohejl.cz/).
+I removed all traces of "social" from the theme to use it in my
+[blog](https://blog.zumbi.com.ar)
+
+The rest of the theme remains unchanged
 
 
 Design focus
